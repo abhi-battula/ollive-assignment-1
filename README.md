@@ -206,6 +206,9 @@ Stores:
 
 <img width="1917" height="947" alt="Screenshot 2026-05-24 181109" src="https://github.com/user-attachments/assets/105306fb-1be2-4cac-bf6e-a97e7f97b243" />
 
+<img width="1474" height="579" alt="image" src="https://github.com/user-attachments/assets/6086503a-5853-4e92-b6c8-303b4b20dbdf" />
+
+
 
 ---
 
